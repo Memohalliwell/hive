@@ -21,6 +21,6 @@ serde_json = "1.0.95"
 serde_yaml = "0.9.33"
 snap = "1.1"
 ssz_types = "0.11"
-tokio = { version = "1.14.0", features = ["full"] }
+tokio = { version = "1.43.1", features = ["full"] }
 tracing = "0.1.37"
 tracing-subscriber = "0.3.16"
